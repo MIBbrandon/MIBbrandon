@@ -24,12 +24,14 @@ For Qiskit, I am a translator for the Spanish team
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qiskit&repo=qiskit&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
 </a>
 
+<br />
+
 ## Stats
 [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibbrandon&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF)](https://github.com/mibbrandon)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibbrandon&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF)](https://github.com/mibbrandon)
 
-*(Private repositories I have includes projects with C++, PLSQL, HTML & CSS, etc.)*
+*(Private repositories I have include projects with C++, PLSQL, HTML & CSS, etc.)*
 
 ## Small projects made for fun
 <a href="https://github.com/mibbrandon/Calculator">
