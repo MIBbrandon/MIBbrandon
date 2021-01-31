@@ -3,9 +3,9 @@
 I’m currently learning about Quantum Computing :snowflake::computer: and advancing my Python :snake: skills
 
 ## Things I'm currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila&theme=chartreuse-dark&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila&theme=chartreuse-dark&show_owner=true&hide_border=true)](https://github.com/aspuru-guzik-group/tequila)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila-tutorials&theme=chartreuse-dark&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila-tutorials&theme=chartreuse-dark&show_owner=true&hide_border=true)](https://github.com/aspuru-guzik-group/tequila-tutorials)
 
 
 ## Stats
