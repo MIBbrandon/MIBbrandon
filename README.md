@@ -21,6 +21,18 @@ For Qiskit, I am a translator for the Spanish team
 <a href="https://github.com/Qiskit/qiskit">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qiskit&repo=qiskit&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
 </a>
+
+## Small projects made for fun
+<a href="https://github.com/mibbrandon/Athena">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibbrandon&repo=Athena&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
+</a>
+<a href="https://github.com/mibbrandon/gravity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibbrandon&repo=gravity&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
+</a>
+<a href="https://github.com/mibbrandon/Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibbrandon&repo=Calculator&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
+</a>
+
 ## Stats
 [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibbrandon&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF)](https://github.com/mibbrandon)
 
@@ -41,18 +53,6 @@ For Qiskit, I am a translator for the Spanish team
 ![](https://img.shields.io/badge/QCS-Cirq-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
 ![](https://img.shields.io/badge/Fav_ML_framework-Tensorflow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
 ![](https://img.shields.io/badge/ML_framework-Pytorch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-
-## Small projects made for fun
-<a href="https://github.com/mibbrandon/Athena">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibbrandon&repo=Athena&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
-</a>
-<a href="https://github.com/mibbrandon/gravity">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibbrandon&repo=gravity&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
-</a>
-<a href="https://github.com/mibbrandon/Calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibbrandon&repo=Calculator&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
-</a>
-
 
 ## Contact me
 [<img align="left" alt="Brandon Solo | LinkedIn" width="52px" src="/media/icons/linkedin.svg" />][linkedin]
