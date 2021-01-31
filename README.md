@@ -4,16 +4,16 @@ I’m currently learning about Quantum Computing :snowflake::computer: and advan
 
 ## Things I'm currently working on
 <a href="https://github.com/aspuru-guzik-group/tequila">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000000&title_color=FFFFFF" />
 </a>
 <a href="https://github.com/aspuru-guzik-group/tequila-tutorials">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila-tutorials&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000000" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila-tutorials&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000000&title_color=FFFFFF" />
 </a>
 
 ## Stats
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibbrandon&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000000)](https://github.com/mibbrandon)
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibbrandon&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000000&title_color=FFFFFF)](https://github.com/mibbrandon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibbrandon&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000000)](https://github.com/mibbrandon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibbrandon&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000000&title_color=FFFFFF)](https://github.com/mibbrandon)
 
 *(Private repositories I have includes projects with C++, PLSQL, HTML & CSS, etc.)*
 
