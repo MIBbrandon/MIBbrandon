@@ -1,6 +1,13 @@
-### Welcome to my GitHub page!
+# Welcome to my GitHub page!
 
 🌱 I’m currently learning about Quantum Computing
+
+## Contact me through
+[<img align="left" alt="Brandon Solo | LinkedIn" width="22px" src="/media/icons/linkedin.svg" />][linkedin]
+
+
+
+[linkedin]: https://linkedin.com/in/brandon-solo
 
 <!--
 **MIBbrandon/MIBbrandon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
