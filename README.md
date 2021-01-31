@@ -3,10 +3,12 @@
 I’m currently learning about Quantum Computing :snowflake::computer: and advancing my Python :snake: skills
 
 ## Things I'm currently working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000000)](https://github.com/aspuru-guzik-group/tequila)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila-tutorials&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000000)](https://github.com/aspuru-guzik-group/tequila-tutorials)
-
+<a href="https://github.com/aspuru-guzik-group/tequila">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000000" />
+</a>
+<a href="https://github.com/aspuru-guzik-group/tequila-tutorials">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila-tutorials&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000000" />
+</a>
 
 ## Stats
 [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibbrandon&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000000)](https://github.com/mibbrandon)
