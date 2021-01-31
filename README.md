@@ -1,6 +1,6 @@
 # Welcome to my profile page!
 
-I’m currently learning about Quantum Computing :snowflake::computer: and advancing my Python :snake: skills
+I’m currently learning about Quantum Computing and advancing my Python skills
 
 ## Things I'm currently working on
 With the Alan Aspuru-Guzik group, I'm updating the machine learning side of Tequila
@@ -43,6 +43,12 @@ For Qiskit, I am a translator for the Spanish team
 ![](https://img.shields.io/badge/ML_framework-Pytorch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
 
 ## Small projects made for fun
+<a href="https://github.com/mibbrandon/Athena">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibbrandon&repo=Athena&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
+</a>
+<a href="https://github.com/mibbrandon/gravity">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibbrandon&repo=gravity&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
+</a>
 <a href="https://github.com/mibbrandon/Calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibbrandon&repo=Calculator&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
 </a>
