@@ -3,7 +3,7 @@
 I’m currently learning about Quantum Computing :snowflake::computer: and advancing my Python :snake: skills
 
 ## Things I'm currently working on
-With the Alan Aspuru-Guzik group, I'm updating the machine learning side of things
+With the Alan Aspuru-Guzik group, I'm updating the machine learning side of Tequila
 <br />
 <br />
 <a href="https://github.com/aspuru-guzik-group/tequila">
