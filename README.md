@@ -1,4 +1,4 @@
-# Welcome to my GitHub page!
+# Welcome to my profile page!
 
 I’m currently learning about Quantum Computing :snowflake::computer: and advancing my Python :snake: skills
 
@@ -9,9 +9,9 @@ I’m currently learning about Quantum Computing :snowflake::computer: and advan
 
 
 ## Stats
-[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibbrandon&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibbrandon&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true)](https://github.com/mibbrandon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibbrandon&theme=chartreuse-dark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibbrandon&theme=chartreuse-dark&count_private=true&hide_border=true)](https://github.com/mibbrandon)
 
 
 ## Contact me through
