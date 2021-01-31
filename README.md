@@ -13,6 +13,8 @@ With the Alan Aspuru-Guzik group, I'm updating the machine learning side of thin
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila-tutorials&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
 </a>
 
+I got the opportunity thanks to the [Quantum Open Source Foundation's mentorship program](https://qosf.org/qc_mentorship/).
+
 <br />
 
 For Qiskit, I am a translator for the Spanish team
