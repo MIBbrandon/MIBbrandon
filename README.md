@@ -31,6 +31,12 @@ For Qiskit, I am a translator for the Spanish team
 
 *(Private repositories I have includes projects with C++, PLSQL, HTML & CSS, etc.)*
 
+## Small projects made for fun
+<a href="https://github.com/mibbrandon/Calculator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mibbrandon&repo=Calculator&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
+</a>
+
+
 ## Contact me through
 [<img align="left" alt="Brandon Solo | LinkedIn" width="22px" src="/media/icons/linkedin.svg" />][linkedin]
 
