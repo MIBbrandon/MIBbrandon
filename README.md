@@ -3,11 +3,23 @@
 I’m currently learning about Quantum Computing :snowflake::computer: and advancing my Python :snake: skills
 
 ## Things I'm currently working on
+With the Alan Aspuru-Guzik group, I'm updating the machine learning side of things
+<br />
+<br />
 <a href="https://github.com/aspuru-guzik-group/tequila">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
 </a>
 <a href="https://github.com/aspuru-guzik-group/tequila-tutorials">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila-tutorials&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
+</a>
+
+<br />
+
+For Qiskit, I am a translator for the Spanish team
+<br />
+<br />
+<a href="https://github.com/Qiskit/qiskit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qiskit&repo=qiskit&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
 </a>
 
 ## Stats
