@@ -38,7 +38,7 @@ For Qiskit, I am a translator for the Spanish team
 
 
 ## Contact me through
-[<img align="left" alt="Brandon Solo | LinkedIn" width="22px" src="/media/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Brandon Solo | LinkedIn" width="22px" src="/media/ions/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/brandon-solo
 
