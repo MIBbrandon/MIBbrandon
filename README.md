@@ -5,6 +5,8 @@ I’m currently learning about Quantum Computing :snowflake::computer: and advan
 ## Things I'm currently working on
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila&theme=chartreuse-dark&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila-tutorials&theme=chartreuse-dark&show_owner=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Stats
 [![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibbrandon&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
