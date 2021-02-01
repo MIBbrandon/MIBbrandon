@@ -41,19 +41,19 @@ For Qiskit, I am a translator for the Spanish team
 *(Private repositories I have include projects with C++, PLSQL, HTML & CSS, etc.)*
 
 ### Tools & Technologies
-<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></a>
-<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /></a>
-<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></a>
-<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-<a><img align="center" width="52px" src="https://yt3.ggpht.com/ytc/AAUvwnjXwvZLX5dBfeUDr5PrnM7Eb36P79pTyFCW050VQw=s900-c-k-c0x00ffffff-no-rj" /></a>
-<a><img align="center" width="52px" src="https://quantumai.google/site-assets/images/marketing/icons/shared-ic-cirq.png" /></a>
-<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /></a>
-<a><img align="center" width="52px" src="https://pytorch.org/assets/images/pytorch-logo.png" /></a>
-<a><img align="center" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" /></a>
+<a><img align="center" width="52px" src="/media/icons/linux.png" /></a>
+<a><img align="center" width="52px" src="/media/icons/python.png" /></a>
+<a><img align="center" width="52px" src="/media/icons/c.png" /></a>
+<a><img align="center" width="52px" src="/media/icons/java.png" /></a>
+<a><img align="center" width="52px" src="/media/icons/javascript.png" /></a>
+<a><img align="center" width="52px" src="/media/icons/html.png" /></a>
+<a><img align="center" width="52px" src="/media/icons/css.png" /></a>
+<a><img align="center" width="52px" src="/media/icons/sql.png" /></a>
+<a><img align="center" width="52px" src="/media/icons/qiskit.jpeg" /></a>
+<a><img align="center" width="52px" src="/media/icons/cirq.png" /></a>
+<a><img align="center" width="52px" src="/media/icons/tensorflow.png" /></a>
+<a><img align="center" width="52px" src="/media/icons/pytorch.png" /></a>
+<a><img align="center" width="52px" src="/media/icons/pycharm.png" /></a>
 
 
 ## Contact me
