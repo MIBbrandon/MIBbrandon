@@ -41,18 +41,20 @@ For Qiskit, I am a translator for the Spanish team
 *(Private repositories I have include projects with C++, PLSQL, HTML & CSS, etc.)*
 
 ### Tools & Technologies
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Fav_Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Fav_QCS-Qiskit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/QCS-Cirq-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Fav_ML_framework-Tensorflow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/ML_framework-Pytorch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
+<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" /></a>
+<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" /></a>
+<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" /></a>
+<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
+<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
+<a><img align="center" width="52px" src="https://yt3.ggpht.com/ytc/AAUvwnjXwvZLX5dBfeUDr5PrnM7Eb36P79pTyFCW050VQw=s900-c-k-c0x00ffffff-no-rj" /></a>
+<a><img align="center" width="52px" src="https://quantumai.google/site-assets/images/marketing/icons/shared-ic-cirq.png" /></a>
+<a><img align="center" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" /></a>
+<a><img align="center" width="52px" src="https://pytorch.org/assets/images/pytorch-logo.png" /></a>
+<a><img align="center" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" /></a>
+
 
 ## Contact me
 [<img align="left" alt="Brandon Solo | LinkedIn" width="52px" src="/media/icons/linkedin.svg" />][linkedin]
