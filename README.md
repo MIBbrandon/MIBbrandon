@@ -13,7 +13,7 @@ With the Alan Aspuru-Guzik group, I'm updating the machine learning side of Tequ
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila-tutorials&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
 </a>
 
-I got the opportunity thanks to the [Quantum Open Source Foundation's mentorship program](https://qosf.org/qc_mentorship/).
+I got the opportunity thanks to the [Quantum Open Source Foundation's mentorship program](https://qosf.org/qc_mentorship/), which also lead to being interviewed by [Ethan Hansen](https://github.com/1ethanhansen) on his podcast [Quantum Computing Now](https://open.spotify.com/episode/3ZWoB4KLYI2CkJfij78qpy?si=XQQsg-76QrSV_Tuzns8gKw).
 
 For Qiskit, I am a translator for the Spanish team
 <br />
@@ -38,21 +38,20 @@ For Qiskit, I am a translator for the Spanish team
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibbrandon&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF)](https://github.com/mibbrandon)
 
-*(Private repositories I have include projects with C++, PLSQL, HTML & CSS, etc.)*
-
 ### Tools & Technologies
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Fav_Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Fav_QCS-Qiskit-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/QCS-Cirq-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/Fav_ML_framework-Tensorflow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
-![](https://img.shields.io/badge/ML_framework-Pytorch-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=000f70)
+<a href="https://www.linux.org/"><img align="center" width="52px" src="/media/icons/linux.png" /></a>
+<a href="https://www.python.org/"><img align="center" width="52px" src="/media/icons/python.png" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="center" width="52px" src="/media/icons/c.png" /></a>
+<a href="https://www.java.com/en/"><img align="center" width="52px" src="/media/icons/java.png" /></a>
+<a href="https://www.javascript.com/"><img align="center" width="52px" src="/media/icons/javascript.png" /></a>
+<a href="https://html.com/"><img align="center" width="52px" src="/media/icons/html.png" /></a>
+<a href="https://css-tricks.com/"><img align="center" width="52px" src="/media/icons/css.png" /></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img align="center" width="52px" src="/media/icons/sql.png" /></a>
+<a href="https://qiskit.org/"><img align="center" width="52px" src="/media/icons/qiskit.jpeg" /></a>
+<a href="https://quantumai.google/cirq"><img align="center" width="52px" src="/media/icons/cirq.png" /></a>
+<a href="https://www.tensorflow.org/"><img align="center" width="52px" src="/media/icons/tensorflow.png" /></a>
+<a href="https://pytorch.org/"><img align="center" width="52px" src="/media/icons/pytorch.png" /></a>
+<a href="https://www.jetbrains.com/pycharm/"><img align="center" width="52px" src="/media/icons/pycharm.png" /></a>
 
 ## Contact me
 [<img align="left" alt="Brandon Solo | LinkedIn" width="52px" src="/media/icons/linkedin.svg" />][linkedin]
