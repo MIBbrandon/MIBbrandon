@@ -13,7 +13,7 @@ With the Alan Aspuru-Guzik group, I'm updating the machine learning side of Tequ
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aspuru-guzik-group&repo=tequila-tutorials&theme=chartreuse-dark&show_owner=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
 </a>
 
-I got the opportunity thanks to the [Quantum Open Source Foundation's mentorship program](https://qosf.org/qc_mentorship/).
+I got the opportunity thanks to the [Quantum Open Source Foundation's mentorship program](https://qosf.org/qc_mentorship/), which also lead to being interviewed by [Ethan Hansen](https://github.com/1ethanhansen) on his podcast [Quantum Computing Now](https://open.spotify.com/episode/3ZWoB4KLYI2CkJfij78qpy?si=XQQsg-76QrSV_Tuzns8gKw).
 
 For Qiskit, I am a translator for the Spanish team
 <br />
@@ -38,8 +38,6 @@ For Qiskit, I am a translator for the Spanish team
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibbrandon&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF)](https://github.com/mibbrandon)
 
-*(Private repositories I have include projects with C++, PLSQL, HTML & CSS, etc.)*
-
 ### Tools & Technologies
 <a><img align="center" width="52px" src="/media/icons/linux.png" /></a>
 <a><img align="center" width="52px" src="/media/icons/python.png" /></a>
@@ -54,7 +52,6 @@ For Qiskit, I am a translator for the Spanish team
 <a><img align="center" width="52px" src="/media/icons/tensorflow.png" /></a>
 <a><img align="center" width="52px" src="/media/icons/pytorch.png" /></a>
 <a><img align="center" width="52px" src="/media/icons/pycharm.png" /></a>
-
 
 ## Contact me
 [<img align="left" alt="Brandon Solo | LinkedIn" width="52px" src="/media/icons/linkedin.svg" />][linkedin]
