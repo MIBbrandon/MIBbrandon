@@ -36,7 +36,7 @@ For Qiskit, I am a translator for the Spanish team
 ## Stats
 [![Brandon's GitHub stats](https://github-readme-stats.mibbrandon.vercel.app/api?username=mibbrandon&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF)](https://github.com/mibbrandon)
 
-[![Top Langs](https://github-readme-stats.mibbrandon.vercel.app/api/top-langs/?username=mibbrandon&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF)](https://github.com/mibbrandon)
+[![Top Langs](https://github-readme-stats.mibbrandon.vercel.app/api/top-langs/?username=mibbrandon&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF&layout=compact)](https://github.com/mibbrandon)
 
 ### Tools & Technologies
 <a href="https://www.linux.org/"><img align="center" width="52px" src="/media/icons/linux.png" /></a>
@@ -52,8 +52,8 @@ For Qiskit, I am a translator for the Spanish team
 <a href="https://www.tensorflow.org/"><img align="center" width="52px" src="/media/icons/tensorflow.png" /></a>
 <a href="https://pytorch.org/"><img align="center" width="52px" src="/media/icons/pytorch.png" /></a>
 <a href="https://www.jetbrains.com/pycharm/"><img align="center" width="52px" src="/media/icons/pycharm.png" /></a>
-<a href="https://www.jetbrains.com/pycharm/"><img align="center" width="52px" src="/media/icons/VSCode.png" /></a>
-<a href="https://www.jetbrains.com/pycharm/"><img align="center" width="52px" src="/media/icons/bash.png" /></a>
+<a href="https://code.visualstudio.com/"><img align="center" width="52px" src="/media/icons/VSCode.png" /></a>
+<a href="https://www.gnu.org/software/bash/"><img align="center" width="52px" src="/media/icons/bash.png" /></a>
 
 ## Contact me
 [<img align="left" alt="Brandon Solo | LinkedIn" width="52px" src="/media/icons/linkedin.svg" />][linkedin]
