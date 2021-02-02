@@ -52,6 +52,8 @@ For Qiskit, I am a translator for the Spanish team
 <a href="https://www.tensorflow.org/"><img align="center" width="52px" src="/media/icons/tensorflow.png" /></a>
 <a href="https://pytorch.org/"><img align="center" width="52px" src="/media/icons/pytorch.png" /></a>
 <a href="https://www.jetbrains.com/pycharm/"><img align="center" width="52px" src="/media/icons/pycharm.png" /></a>
+<a href="https://www.jetbrains.com/pycharm/"><img align="center" width="52px" src="/media/icons/VSCode.png" /></a>
+<a href="https://www.jetbrains.com/pycharm/"><img align="center" width="52px" src="/media/icons/bash.png" /></a>
 
 ## Contact me
 [<img align="left" alt="Brandon Solo | LinkedIn" width="52px" src="/media/icons/linkedin.svg" />][linkedin]
