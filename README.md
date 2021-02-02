@@ -39,19 +39,19 @@ For Qiskit, I am a translator for the Spanish team
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibbrandon&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF)](https://github.com/mibbrandon)
 
 ### Tools & Technologies
-<a><img align="center" width="52px" src="/media/icons/linux.png" /></a>
-<a><img align="center" width="52px" src="/media/icons/python.png" /></a>
-<a><img align="center" width="52px" src="/media/icons/c.png" /></a>
-<a><img align="center" width="52px" src="/media/icons/java.png" /></a>
-<a><img align="center" width="52px" src="/media/icons/javascript.png" /></a>
-<a><img align="center" width="52px" src="/media/icons/html.png" /></a>
-<a><img align="center" width="52px" src="/media/icons/css.png" /></a>
-<a><img align="center" width="52px" src="/media/icons/sql.png" /></a>
-<a><img align="center" width="52px" src="/media/icons/qiskit.jpeg" /></a>
-<a><img align="center" width="52px" src="/media/icons/cirq.png" /></a>
-<a><img align="center" width="52px" src="/media/icons/tensorflow.png" /></a>
-<a><img align="center" width="52px" src="/media/icons/pytorch.png" /></a>
-<a><img align="center" width="52px" src="/media/icons/pycharm.png" /></a>
+<a href="https://www.linux.org/"><img align="center" width="52px" src="/media/icons/linux.png" /></a>
+<a href="https://www.python.org/"><img align="center" width="52px" src="/media/icons/python.png" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img align="center" width="52px" src="/media/icons/c.png" /></a>
+<a href="https://www.java.com/en/"><img align="center" width="52px" src="/media/icons/java.png" /></a>
+<a href="https://www.javascript.com/"><img align="center" width="52px" src="/media/icons/javascript.png" /></a>
+<a href="https://html.com/"><img align="center" width="52px" src="/media/icons/html.png" /></a>
+<a href="https://css-tricks.com/"><img align="center" width="52px" src="/media/icons/css.png" /></a>
+<a href="https://en.wikipedia.org/wiki/SQL"><img align="center" width="52px" src="/media/icons/sql.png" /></a>
+<a href="https://qiskit.org/"><img align="center" width="52px" src="/media/icons/qiskit.jpeg" /></a>
+<a href="https://quantumai.google/cirq"><img align="center" width="52px" src="/media/icons/cirq.png" /></a>
+<a href="https://www.tensorflow.org/"><img align="center" width="52px" src="/media/icons/tensorflow.png" /></a>
+<a href="https://pytorch.org/"><img align="center" width="52px" src="/media/icons/pytorch.png" /></a>
+<a href="https://www.jetbrains.com/pycharm/"><img align="center" width="52px" src="/media/icons/pycharm.png" /></a>
 
 ## Contact me
 [<img align="left" alt="Brandon Solo | LinkedIn" width="52px" src="/media/icons/linkedin.svg" />][linkedin]
