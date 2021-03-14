@@ -24,12 +24,18 @@ For Qiskit, I am a translator for the Spanish team
 
 ## Small projects made for fun
 <a href="https://github.com/mibbrandon/Athena">
+<a width=150 href="https://github.com/mibbrandon/Athena">
   <img align="center" src="https://github-readme-stats.mibbrandon.vercel.app/api/pin/?username=mibbrandon&repo=Athena&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
 </a>
 <a href="https://github.com/mibbrandon/gravity">
+<a width=150 href="https://github.com/MIBbrandon/Q-bicle">
+  <img align="center" src="https://github-readme-stats.mibbrandon.vercel.app/api/pin/?username=mibbrandon&repo=Q-bicle&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
+</a>
+<a width=150 href="https://github.com/mibbrandon/gravity">
   <img align="center" src="https://github-readme-stats.mibbrandon.vercel.app/api/pin/?username=mibbrandon&repo=gravity&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
 </a>
 <a href="https://github.com/mibbrandon/Calculator">
+<a width=150 href="https://github.com/mibbrandon/Calculator">
   <img align="center" src="https://github-readme-stats.mibbrandon.vercel.app/api/pin/?username=mibbrandon&repo=Calculator&theme=chartreuse-dark&show_owner=false&hide_border=true&bg_color=30,000f70,000312&title_color=FFFFFF" />
 </a>
 
